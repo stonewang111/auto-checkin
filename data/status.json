@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T10:43:40+08:00",
+  "updated_at": "2026-11-17T10:56:59+08:00",
   "platforms": [
     "smzdm",
     "52pojie"
@@ -741,12 +741,12 @@
       "smzdm": {
         "status": "failed",
         "message": "验证码输入错误，请重新输入",
-        "time": "10:43"
+        "time": "10:56"
       },
       "52pojie": {
         "status": "not_configured",
         "message": "未配置 POJIE_COOKIE",
-        "time": "10:43"
+        "time": "10:56"
       }
     }
   }
